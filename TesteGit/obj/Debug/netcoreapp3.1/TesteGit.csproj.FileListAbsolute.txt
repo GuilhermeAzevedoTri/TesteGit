@@ -1,0 +1,13 @@
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.exe
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.deps.json
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.json
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.dev.json
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csprojAssemblyReference.cache
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfoInputs.cache
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfo.cs
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\GUILHERMEAZEVEDODATR\Google Drive\Udemy\C# POO\8- Introdução ao Git e GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.genruntimeconfig.cache
